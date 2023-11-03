@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Njoroge!;" />
 </h1>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/DNM-lang/DNM-lang/main/burner23.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/DNM-lang/DNM-lang/main/burner34.PNG"> </div>
 <h3 align="center">A passionate software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
